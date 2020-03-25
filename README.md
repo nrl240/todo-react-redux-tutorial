@@ -5,6 +5,6 @@
 
 Update index.html to remove mention of favicon and manifest.json file
 
-`npm install classnames react react-dom react-scripts`
+`npm install classnames react react-dom react-scripts redux react-redux`
 `npm start`
 Add browser defaults to `package.json` file by typing `Y` in the terminal
