@@ -1,9 +1,12 @@
-# todo-react-redux-tutorial
+# React Redux: [Basic Tutorial](https://react-redux.js.org/introduction/basic-tutorial)
+A Todo List Example
 
-[React Redux Basic Tutorial](https://react-redux.js.org/introduction/basic-tutorial)
+## Setting Up
 
-#### Steps to begin:
+**`master` is the solution branch**
+
 - fork and clone this repo
+- if you're doing the [tutorial](https://react-redux.js.org/introduction/basic-tutorial), `git checkout starting-point`
 - `npm install`
 - `npm start`
-  - If prompted `Would you like to add the defaults to your package.json? (Y/n)`, type `Y` (and press enter)
+- Add browser defaults to `package.json` file by typing `Y` in the terminal
