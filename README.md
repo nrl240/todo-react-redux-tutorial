@@ -5,8 +5,8 @@ A Todo List Example
 
 **`master` is the solution branch**
 
-- fork and clone this repo
-- if you're doing the [tutorial](https://react-redux.js.org/introduction/basic-tutorial), `git checkout starting-point`
+- Fork and clone this repo
+- `git checkout starting-point`
 - `npm install`
 - `npm start`
-- Add browser defaults to `package.json` file by typing `Y` in the terminal
+- If applicable, add browser defaults to `package.json` file by typing `Y` in the terminal
