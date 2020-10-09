@@ -1,5 +1,5 @@
 # React Redux: [Basic Tutorial](https://react-redux.js.org/introduction/basic-tutorial)
-A Todo List Example
+To see how to use React Redux in practice, we’ll show a step-by-step example by creating a todo list app.
 
 ## Setting Up
 
